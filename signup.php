@@ -70,7 +70,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         ?>
 
         <div class="container my-4">
-            <h1 class='text-center'>Sign up to our website</h1>
+            <h1 class='text-center'>Sign up to the website</h1>
             <form action="/loginsystem/signup.php" method="post">
                 <div class="form-group col-md-6">
                     <label for="username">Username</label>
